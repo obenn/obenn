@@ -10,6 +10,7 @@ I am always open to offering assistance in various technical topics and collabor
 * Research in mobility modelling on public data for COVID-19 pandemic
 
 ### Connect with me
-* Site and email: me@oliverbenning.com
-* Twitter @OliverBenning
+* Site: https://oliverbenning.com
+* Email: me@oliverbenning.com
+* Twitter twitter.com/OliverBenning
 * LinkedIn: https://linkedin.com/in/oliverbenning

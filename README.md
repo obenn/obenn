@@ -12,4 +12,4 @@ I am always open to offering assistance in various technical topics and collabor
 ### Connect with me
 * Site and email: me@oliverbenning.com
 * Twitter @OliverBenning
-* LinkedIn: /in/oliverbenning
+* LinkedIn: https://linkedin.com/in/oliverbenning
